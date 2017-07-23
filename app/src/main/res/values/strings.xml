@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">MapApi</string>
+    <string name="action_settings">Setting</string>
+    <string name="action_search">Search</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="nav_item_videos">Direction</string>
+    <string name="nav_item_download">Get weather</string>
+    <string name="nav_item_video">Place around</string>
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_item_videos</item>
+        <item>@string/nav_item_download</item>
+        <item>@string/nav_item_video</item>
+    </string-array>
+
+    <string name="title_videos">Direction</string>
+    <string name="title_download"> Get weather</string>
+    <string name="title_video">Place around</string>
+
+    <string name="desc">image</string>
+    <string name="description">Description</string>
+    <string name="play">Play</string>
+    <string name="download">DownLoad</string>
+    <string name="pause">Pause</string>
+    <string name="resume">Pause</string>
+    <string name="cancel">Resume</string>
+    <string name="nickname">Nickname</string>
+    <string name="name">Name</string>
+    <string name="pass">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="logout">LOGOUT</string>
+    <string name="video">VIDEO</string>
+    <string name="done">Done!</string>
+    <string name="dơwnload">Downloading.......</string>
+    <string name="wait">waiting......</string>
+    <string name="textunderline"><u>Register Account..</u></string>
+    <string name="updateprofile">UPDATE PROFILE</string>
+    <string name="personalinformation">PERSONAL INFOMATION</string>
+    <string name="readlincence">READ LINCENCE</string>
+    <string name="compeletedregister">Completed Register</string>
+    <string name="fragmentinfor">FragmentInfor</string>
+    <string name="fragmentlincence">FragmentLincence</string>
+    <string name="save">Save</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F50057</color>
+    <color name="colorPrimaryDark">#C51162</color>
+    <color name="colorAccent">#FF80AB</color>
+    <color name="textDone">#07ec5b</color>
+    <color name="textCancel">#ed0505</color>
+    <color name="textBlack">#fd060000</color>
+    <color name="textWhite">#FFF</color>
+    <color name="textYellow">#fce305</color>
+    <color name="white">#ffffff</color>
+    <color name="blue">#0050ff</color>
+    <color name="button">#EEFF41</color>
+    <color name="buttonpress">#FF9100</color>
+    <color name="background">#E0F2F1</color>
+</resources>
